@@ -1,0 +1,9 @@
+<%= link_to "Back", projects_path %>
+<%= link_to "Delete", project_path(@project), method: :delete, data: {confirm: "Are you sure?"} %>
+
+<h1><%= @project.title %></h1>
+
+<%= render 'form' %>
+
+<h1>Lessons</h1>
+

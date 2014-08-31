@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  project_id: 
+  date: 2014-09-01
+  achievement: MyText
+  learned: MyText
+  behavior: MyString
+  result: MyString
+  category: MyString
+  user_id: 
+  comment: MyText
+
+two:
+  project_id: 
+  date: 2014-09-01
+  achievement: MyText
+  learned: MyText
+  behavior: MyString
+  result: MyString
+  category: MyString
+  user_id: 
+  comment: MyText
